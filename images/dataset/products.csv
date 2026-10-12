@@ -1,0 +1,151 @@
+ProductID,ProductName,Category,SubCategory,CostPrice,SellingPrice
+PROD0001,Item_Laptops_1,Electronics,Laptops,15000,21011
+PROD0002,Item_Laptops_2,Electronics,Laptops,2500,3600
+PROD0003,Item_Supplements_3,Beauty & Health,Supplements,1200,1965
+PROD0004,Item_Home Decor_4,Home & Kitchen,Home Decor,500,785
+PROD0005,Item_Appliances_5,Home & Kitchen,Appliances,2500,3253
+PROD0006,Item_Cookware_6,Home & Kitchen,Cookware,500,892
+PROD0007,Item_Fragrances_7,Beauty & Health,Fragrances,500,638
+PROD0008,Item_Bedding_8,Home & Kitchen,Bedding,35000,45346
+PROD0009,Item_Men Clothing_9,Fashion,Men Clothing,35000,57251
+PROD0010,Item_Bedding_10,Home & Kitchen,Bedding,200,327
+PROD0011,Item_Footwear_11,Fashion,Footwear,15000,18906
+PROD0012,Item_Smartphones_12,Electronics,Smartphones,1200,1924
+PROD0013,Item_Fragrances_13,Beauty & Health,Fragrances,200,253
+PROD0014,Item_Laptops_14,Electronics,Laptops,8000,14227
+PROD0015,Item_Skincare_15,Beauty & Health,Skincare,35000,57150
+PROD0016,Item_Smartwatches_16,Electronics,Smartwatches,15000,20289
+PROD0017,Item_Smartphones_17,Electronics,Smartphones,200,267
+PROD0018,Item_Smartphones_18,Electronics,Smartphones,2500,3908
+PROD0019,Item_Haircare_19,Beauty & Health,Haircare,2500,3996
+PROD0020,Item_Headphones_20,Electronics,Headphones,2500,4267
+PROD0021,Item_Footwear_21,Fashion,Footwear,8000,13974
+PROD0022,Item_Cookware_22,Home & Kitchen,Cookware,500,732
+PROD0023,Item_Supplements_23,Beauty & Health,Supplements,35000,59998
+PROD0024,Item_Bedding_24,Home & Kitchen,Bedding,2500,3870
+PROD0025,Item_Smartphones_25,Electronics,Smartphones,15000,22632
+PROD0026,Item_Skincare_26,Beauty & Health,Skincare,15000,24516
+PROD0027,Item_Accessories_27,Fashion,Accessories,35000,45736
+PROD0028,Item_Smartphones_28,Electronics,Smartphones,200,279
+PROD0029,Item_Cookware_29,Home & Kitchen,Cookware,500,849
+PROD0030,Item_Cookware_30,Home & Kitchen,Cookware,200,305
+PROD0031,Item_Smartphones_31,Electronics,Smartphones,200,349
+PROD0032,Item_Smartphones_32,Electronics,Smartphones,2500,3246
+PROD0033,Item_Skincare_33,Beauty & Health,Skincare,200,284
+PROD0034,Item_Headphones_34,Electronics,Headphones,35000,50594
+PROD0035,Item_Women Clothing_35,Fashion,Women Clothing,8000,11859
+PROD0036,Item_Skincare_36,Beauty & Health,Skincare,15000,26891
+PROD0037,Item_Footwear_37,Fashion,Footwear,15000,21312
+PROD0038,Item_Appliances_38,Home & Kitchen,Appliances,15000,23029
+PROD0039,Item_Home Decor_39,Home & Kitchen,Home Decor,35000,54069
+PROD0040,Item_Women Clothing_40,Fashion,Women Clothing,500,836
+PROD0041,Item_Headphones_41,Electronics,Headphones,2500,3837
+PROD0042,Item_Cookware_42,Home & Kitchen,Cookware,2500,3957
+PROD0043,Item_Footwear_43,Fashion,Footwear,35000,58251
+PROD0044,Item_Men Clothing_44,Fashion,Men Clothing,200,261
+PROD0045,Item_Accessories_45,Fashion,Accessories,200,355
+PROD0046,Item_Laptops_46,Electronics,Laptops,1200,2058
+PROD0047,Item_Headphones_47,Electronics,Headphones,1200,1756
+PROD0048,Item_Skincare_48,Beauty & Health,Skincare,2500,4126
+PROD0049,Item_Footwear_49,Fashion,Footwear,35000,58424
+PROD0050,Item_Women Clothing_50,Fashion,Women Clothing,2500,4294
+PROD0051,Item_Smartphones_51,Electronics,Smartphones,200,270
+PROD0052,Item_Men Clothing_52,Fashion,Men Clothing,35000,57296
+PROD0053,Item_Men Clothing_53,Fashion,Men Clothing,8000,10146
+PROD0054,Item_Skincare_54,Beauty & Health,Skincare,8000,10508
+PROD0055,Item_Footwear_55,Fashion,Footwear,15000,25152
+PROD0056,Item_Smartwatches_56,Electronics,Smartwatches,200,339
+PROD0057,Item_Fragrances_57,Beauty & Health,Fragrances,35000,55154
+PROD0058,Item_Haircare_58,Beauty & Health,Haircare,1200,1883
+PROD0059,Item_Supplements_59,Beauty & Health,Supplements,1200,1994
+PROD0060,Item_Smartwatches_60,Electronics,Smartwatches,8000,13986
+PROD0061,Item_Laptops_61,Electronics,Laptops,2500,3704
+PROD0062,Item_Laptops_62,Electronics,Laptops,200,262
+PROD0063,Item_Men Clothing_63,Fashion,Men Clothing,15000,25671
+PROD0064,Item_Supplements_64,Beauty & Health,Supplements,15000,21568
+PROD0065,Item_Headphones_65,Electronics,Headphones,2500,3308
+PROD0066,Item_Headphones_66,Electronics,Headphones,1200,1905
+PROD0067,Item_Headphones_67,Electronics,Headphones,8000,12543
+PROD0068,Item_Cookware_68,Home & Kitchen,Cookware,2500,3777
+PROD0069,Item_Laptops_69,Electronics,Laptops,1200,2067
+PROD0070,Item_Cookware_70,Home & Kitchen,Cookware,1200,1679
+PROD0071,Item_Fragrances_71,Beauty & Health,Fragrances,35000,44004
+PROD0072,Item_Accessories_72,Fashion,Accessories,15000,21418
+PROD0073,Item_Headphones_73,Electronics,Headphones,1200,1506
+PROD0074,Item_Smartwatches_74,Electronics,Smartwatches,2500,3872
+PROD0075,Item_Skincare_75,Beauty & Health,Skincare,500,729
+PROD0076,Item_Men Clothing_76,Fashion,Men Clothing,8000,13581
+PROD0077,Item_Accessories_77,Fashion,Accessories,1200,2026
+PROD0078,Item_Bedding_78,Home & Kitchen,Bedding,2500,3722
+PROD0079,Item_Laptops_79,Electronics,Laptops,15000,20536
+PROD0080,Item_Supplements_80,Beauty & Health,Supplements,200,296
+PROD0081,Item_Smartphones_81,Electronics,Smartphones,15000,24040
+PROD0082,Item_Fragrances_82,Beauty & Health,Fragrances,35000,47411
+PROD0083,Item_Smartphones_83,Electronics,Smartphones,8000,13401
+PROD0084,Item_Laptops_84,Electronics,Laptops,200,286
+PROD0085,Item_Skincare_85,Beauty & Health,Skincare,200,352
+PROD0086,Item_Skincare_86,Beauty & Health,Skincare,15000,22972
+PROD0087,Item_Smartphones_87,Electronics,Smartphones,2500,4289
+PROD0088,Item_Skincare_88,Beauty & Health,Skincare,15000,23831
+PROD0089,Item_Smartwatches_89,Electronics,Smartwatches,500,777
+PROD0090,Item_Headphones_90,Electronics,Headphones,2500,4062
+PROD0091,Item_Cookware_91,Home & Kitchen,Cookware,2500,4240
+PROD0092,Item_Accessories_92,Fashion,Accessories,8000,12835
+PROD0093,Item_Smartwatches_93,Electronics,Smartwatches,35000,59096
+PROD0094,Item_Women Clothing_94,Fashion,Women Clothing,35000,47416
+PROD0095,Item_Haircare_95,Beauty & Health,Haircare,2500,3506
+PROD0096,Item_Accessories_96,Fashion,Accessories,8000,11010
+PROD0097,Item_Footwear_97,Fashion,Footwear,1200,2026
+PROD0098,Item_Headphones_98,Electronics,Headphones,8000,10378
+PROD0099,Item_Cookware_99,Home & Kitchen,Cookware,35000,59070
+PROD0100,Item_Cookware_100,Home & Kitchen,Cookware,2500,3659
+PROD0101,Item_Smartwatches_101,Electronics,Smartwatches,1200,1552
+PROD0102,Item_Smartphones_102,Electronics,Smartphones,1200,1780
+PROD0103,Item_Women Clothing_103,Fashion,Women Clothing,500,707
+PROD0104,Item_Cookware_104,Home & Kitchen,Cookware,15000,23633
+PROD0105,Item_Smartwatches_105,Electronics,Smartwatches,2500,3774
+PROD0106,Item_Smartwatches_106,Electronics,Smartwatches,200,282
+PROD0107,Item_Laptops_107,Electronics,Laptops,15000,25863
+PROD0108,Item_Women Clothing_108,Fashion,Women Clothing,2500,3684
+PROD0109,Item_Cookware_109,Home & Kitchen,Cookware,200,301
+PROD0110,Item_Accessories_110,Fashion,Accessories,15000,25734
+PROD0111,Item_Men Clothing_111,Fashion,Men Clothing,35000,45464
+PROD0112,Item_Men Clothing_112,Fashion,Men Clothing,500,732
+PROD0113,Item_Laptops_113,Electronics,Laptops,2500,3678
+PROD0114,Item_Supplements_114,Beauty & Health,Supplements,15000,22840
+PROD0115,Item_Headphones_115,Electronics,Headphones,500,654
+PROD0116,Item_Men Clothing_116,Fashion,Men Clothing,200,261
+PROD0117,Item_Laptops_117,Electronics,Laptops,8000,11832
+PROD0118,Item_Appliances_118,Home & Kitchen,Appliances,35000,44385
+PROD0119,Item_Women Clothing_119,Fashion,Women Clothing,2500,3475
+PROD0120,Item_Fragrances_120,Beauty & Health,Fragrances,1200,1632
+PROD0121,Item_Fragrances_121,Beauty & Health,Fragrances,1200,1822
+PROD0122,Item_Accessories_122,Fashion,Accessories,500,628
+PROD0123,Item_Appliances_123,Home & Kitchen,Appliances,35000,56757
+PROD0124,Item_Smartphones_124,Electronics,Smartphones,8000,13764
+PROD0125,Item_Haircare_125,Beauty & Health,Haircare,1200,1966
+PROD0126,Item_Footwear_126,Fashion,Footwear,1200,2039
+PROD0127,Item_Footwear_127,Fashion,Footwear,2500,4009
+PROD0128,Item_Bedding_128,Home & Kitchen,Bedding,1200,1834
+PROD0129,Item_Haircare_129,Beauty & Health,Haircare,35000,47966
+PROD0130,Item_Headphones_130,Electronics,Headphones,35000,49132
+PROD0131,Item_Headphones_131,Electronics,Headphones,200,284
+PROD0132,Item_Accessories_132,Fashion,Accessories,500,635
+PROD0133,Item_Bedding_133,Home & Kitchen,Bedding,35000,61326
+PROD0134,Item_Smartwatches_134,Electronics,Smartwatches,15000,26177
+PROD0135,Item_Footwear_135,Fashion,Footwear,1200,1571
+PROD0136,Item_Accessories_136,Fashion,Accessories,2500,3890
+PROD0137,Item_Smartwatches_137,Electronics,Smartwatches,15000,22608
+PROD0138,Item_Fragrances_138,Beauty & Health,Fragrances,200,325
+PROD0139,Item_Haircare_139,Beauty & Health,Haircare,15000,23724
+PROD0140,Item_Men Clothing_140,Fashion,Men Clothing,1200,1582
+PROD0141,Item_Bedding_141,Home & Kitchen,Bedding,500,806
+PROD0142,Item_Fragrances_142,Beauty & Health,Fragrances,500,792
+PROD0143,Item_Footwear_143,Fashion,Footwear,35000,53976
+PROD0144,Item_Smartwatches_144,Electronics,Smartwatches,500,735
+PROD0145,Item_Accessories_145,Fashion,Accessories,1200,2130
+PROD0146,Item_Haircare_146,Beauty & Health,Haircare,200,343
+PROD0147,Item_Bedding_147,Home & Kitchen,Bedding,35000,55012
+PROD0148,Item_Supplements_148,Beauty & Health,Supplements,8000,10028
+PROD0149,Item_Footwear_149,Fashion,Footwear,15000,22315
+PROD0150,Item_Fragrances_150,Beauty & Health,Fragrances,35000,57231
